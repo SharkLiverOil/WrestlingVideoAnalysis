@@ -1,0 +1,7 @@
+4/17/20
+Main website:
+https://dev.to/stephan007/open-source-sports-video-analysis-using-maching-learning-2ag4
+
+First goal:
+Wrestling mat detection based on:
+https://web.stanford.edu/class/ee368/Project_Spring_1415/Reports/Cheshire_Halasz_Perin.pdf
