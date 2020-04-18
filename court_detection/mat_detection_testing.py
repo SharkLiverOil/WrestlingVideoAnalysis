@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 from matplotlib import pyplot as plt
 
-IMG = 'images/mat1.png'
+IMG = '../images/mat1.png'
 
 
 def main():
@@ -11,7 +11,7 @@ def main():
 
     hsv = bgr_to_hsv(img)
     cv2.imshow('HSV', hsv)
-    cv2.imwrite('images/hsv_mat1.png', hsv)
+    cv2.imwrite('../images/hsv_mat1.png', hsv)
 
     orange = rgb_to_hsv([[[255, 98, 0]]])
     pink = rgb_to_hsv(([[[255, 0, 157]]]))

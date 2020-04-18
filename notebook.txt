@@ -5,3 +5,5 @@ https://dev.to/stephan007/open-source-sports-video-analysis-using-maching-learni
 First goal:
 Wrestling mat detection based on:
 https://web.stanford.edu/class/ee368/Project_Spring_1415/Reports/Cheshire_Halasz_Perin.pdf
+
+Detecting an elipse is going to be hard.
